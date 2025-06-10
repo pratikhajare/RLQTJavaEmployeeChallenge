@@ -1,0 +1,3 @@
+rootProject.name = 'RLQTJavaEmployeeChallenge'
+include 'server'
+include 'api'
